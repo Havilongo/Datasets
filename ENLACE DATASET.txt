@@ -1,0 +1,68 @@
+https://drive.google.com/drive/folders/11UBBu0pNgq4uIqt9wW6F0LaWTXjAycv1
+
+df.head(10)
+
+para ver las primeras 10 filas
+
+df.shape--- para saber el volumen de dataset
+
+REGISTRO: Se le dice a la fila
+
+
+22:32
+
+---Buscador de Dataset de Google:
+
+https://datasetsearch.research.google.com
+
+--Plataforma de datos abiertos de Nación:
+
+https://datos.gob.ar/dataset
+
+--Plataforma de datos abiertos del Gobierno de la Ciudad:
+
+https://data.buenosaires.gob.ar/dataset
+
+--Buscador de dataset Kaggle:
+
+https://www.kaggle.com/datasets
+
+--Datos Abiertos del Banco Mundial:
+
+https://data.worldbank.org/
+
+--Datos Abiertos de la OMS:
+
+https://www.who.int/data
+
+--Registro de Datos Abiertos de AWS:
+
+https://registry.opendata.aws/
+
+--Datos Abiertos del Gobierno de EEUU:
+
+https://www.data.gov/
+
+--Oficina del Censo de EEUU:
+
+https://www.census.gov/data.html
+
+--Conjunto de Datos Abiertos de FreeCodeCamp:
+
+https://github.com/freeCodeCamp/open-data
+
+--Conjunto de Datos Abiertos de Yelp:
+
+https://www.yelp.com/dataset
+
+Buscador de Datos de UNICEF:
+
+https://data.unicef.org/
+
+Data Science Doho:
+
+https://datasciencedojo.com/blog/datasets-data-science-skills/
+
+UCI Machine Learning:
+
+https://archive.ics.uci.edu/ml/datasets.php
